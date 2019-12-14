@@ -30,3 +30,4 @@ python3、requests、xlrd、unittest
 目前随便加的
 
 ##其他功能 报告生成等，不一一说。  
+![image](https://github.com/Mistyrain520/game/blob/master/report_test.png)
