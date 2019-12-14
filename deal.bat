@@ -2,5 +2,5 @@
 echo aaa
 cd
 cd %cd%
-python sql.py
+python Mytest_runner.py
 pause
